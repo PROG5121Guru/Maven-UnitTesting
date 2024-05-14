@@ -2,6 +2,9 @@
 
 This repository is set up to demonstrate automated testing using Maven and GitHub Actions.
 
+[Youtube video on how to-do it](https://youtu.be/oz0Qd5H4Onk)
+
+
 ## Maven Configuration
 
 To configure Maven for automated testing, add the following code segment to your `pom.xml` file:
